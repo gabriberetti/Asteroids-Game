@@ -4,7 +4,7 @@ A classic Asteroids arcade game built with HTML5 Canvas and JavaScript.
 
 ## 🎮 Play the Game
 
-You can play the game here: [Play Asteroids](https://gabriberetti.github.io/asteroids-game/javascript.html)
+You can play the game here: [Play Asteroids](https://htmlpreview.github.io/?https://github.com/gabriberetti/asteroids-game/blob/main/javascript.html)
 
 ## 🕹️ Game Controls
 
