@@ -30,3 +30,5 @@ You can play the game here: [Play Asteroids](https://htmlpreview.github.io/?http
 - Vanilla JavaScript
 - Local Storage for high score saving
 
+## Gabriele Beretti | © 2024 ##
+
