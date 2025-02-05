@@ -6,14 +6,14 @@ A classic Asteroids arcade game built with HTML5 Canvas and JavaScript.
 
 You can play the game here: [Play Asteroids](https://htmlpreview.github.io/?https://github.com/gabriberetti/asteroids-game/blob/main/javascript.html)
 
-## 🕹️ Game Controls
+## Game Controls
 
 - **Arrow Up**: Thrust
 - **Arrow Left/Right**: Rotate ship
 - **Space**: Shoot
 - **Arrow Down**: Brake
 
-## 🎯 Game Features
+## Game Features
 
 - Classic asteroid shooting gameplay
 - Multiple asteroid sizes
@@ -24,12 +24,9 @@ You can play the game here: [Play Asteroids](https://htmlpreview.github.io/?http
 - Sound effects
 - Progressive difficulty levels
 
-## 🛠️ Built With
+## Built With
 
 - HTML5 Canvas
 - Vanilla JavaScript
 - Local Storage for high score saving
 
-## 🚀 Installation
-
-1. Clone the repository: 
