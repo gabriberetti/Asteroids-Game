@@ -1,6 +1,6 @@
 # Asteroids Game
 
-A classic Asteroids arcade game built with HTML5 Canvas and JavaScript.
+A classic Asteroids arcade game built with HTML5 and JavaScript.
 
 ## 🎮 Play the Game
 
@@ -23,12 +23,6 @@ You can play the game here: [Play Asteroids](https://htmlpreview.github.io/?http
 - Ship thrust animations
 - Sound effects
 - Progressive difficulty levels
-
-## Built With
-
-- HTML5 Canvas
-- Vanilla JavaScript
-- Local Storage for high score saving
 
 ## Gabriele Beretti | © 2024 ##
 
